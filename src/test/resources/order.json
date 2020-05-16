@@ -1,0 +1,58 @@
+{
+  "orderId": "de4a297f-214b-43b6-9fca-1e2698b8e1ac",
+  "client": {
+    "consumerId": "a6d52ef0-b45a-48ad-aab0-4b78c0e9dd08",
+    "name": "Misha",
+    "address": {
+      "zipCode": "644088",
+      "country": "Russia",
+      "city": "Омск",
+      "street": "Энтузиастов, 25",
+      "room": "58",
+      "email": "shma2001@gmail.com"
+    }
+  },
+  "status": "NEW",
+  "creationDate": {
+    "date": {
+      "year": 1991,
+      "month": 12,
+      "day": 31
+    },
+    "time": {
+      "hour": 3,
+      "minute": 37,
+      "second": 21,
+      "nano": 593000000
+    }
+  },
+  "orderItems": [
+    {
+      "product": {
+        "productId": "62326c84-6c20-430c-b90e-c33013b85f1e",
+        "productName": "product0",
+        "description": "product0 description",
+        "price": 0
+      },
+      "pieces": 1
+    },
+    {
+      "product": {
+        "productId": "eb0a7812-21a2-4dc9-8a75-002b4a38b319",
+        "productName": "product1",
+        "description": "product1 description",
+        "price": 1
+      },
+      "pieces": 2
+    },
+    {
+      "product": {
+        "productId": "82d4ab00-c1dc-4d95-8b9b-0e9a26ed05e5",
+        "productName": "product2",
+        "description": "product2 description",
+        "price": 2
+      },
+      "pieces": 3
+    }
+  ]
+}
